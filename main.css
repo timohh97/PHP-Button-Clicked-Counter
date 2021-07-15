@@ -1,0 +1,19 @@
+#count
+{
+   display:table;
+  margin:0 auto;
+   
+}
+
+#divForButton
+{
+    display:table;
+    margin:0 auto;
+    margin-top:200px;
+}
+
+button
+{
+font-size:xx-large;
+    color:blue;
+}
